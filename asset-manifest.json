@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/space-x/static/css/main.685daf2b.css",
+    "main.js": "/space-x/static/js/main.e2e37c16.js",
+    "static/media/background.jpg": "/space-x/static/media/background.a189c645c1edc82f5814.jpg",
+    "static/media/MuseoSansCyrl-100.eot": "/space-x/static/media/MuseoSansCyrl-100.cd9787f9ada018d30e38.eot",
+    "static/media/MuseoSansCyrl-300.eot": "/space-x/static/media/MuseoSansCyrl-300.ba8937d4494dc165ab5b.eot",
+    "static/media/MuseoSansCyrl-700.eot": "/space-x/static/media/MuseoSansCyrl-700.9f4928fde13fe6a09d39.eot",
+    "static/media/MuseoSansCyrl-300.ttf": "/space-x/static/media/MuseoSansCyrl-300.f55cbd6c72bf488b5c7f.ttf",
+    "static/media/MuseoSansCyrl-100.ttf": "/space-x/static/media/MuseoSansCyrl-100.4318e0a1d034eda1c606.ttf",
+    "static/media/MuseoSansCyrl-700.ttf": "/space-x/static/media/MuseoSansCyrl-700.4407722f22c0457d4687.ttf",
+    "static/media/MuseoSansCyrl-700.woff": "/space-x/static/media/MuseoSansCyrl-700.d44c59f0dce3522acf45.woff",
+    "static/media/MuseoSansCyrl-300.woff": "/space-x/static/media/MuseoSansCyrl-300.009af5051e58a1cf5c8c.woff",
+    "static/media/MuseoSansCyrl-100.woff": "/space-x/static/media/MuseoSansCyrl-100.af0499741b08a1533134.woff",
+    "index.html": "/space-x/index.html",
+    "main.685daf2b.css.map": "/space-x/static/css/main.685daf2b.css.map",
+    "main.e2e37c16.js.map": "/space-x/static/js/main.e2e37c16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.685daf2b.css",
+    "static/js/main.e2e37c16.js"
+  ]
+}
