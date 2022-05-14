@@ -1,3 +1,3 @@
-# Only home-page 
-[Главная](https://stongwill.github.io/space-x/)
+# Only home-page
+[Посмотреть главную страницу](https://stongwill.github.io/space-x/)
 
