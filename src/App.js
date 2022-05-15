@@ -7,9 +7,9 @@ function App() {
     setModal(!modal);
   };
   return (
-    <>
+    <div className="home">
       <Header modal={modal} popup={popup} />
-    </>
+    </div>
   );
 }
 

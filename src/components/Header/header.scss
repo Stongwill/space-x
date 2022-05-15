@@ -9,22 +9,21 @@ header{
     flex-direction: column;
     min-height: 100vh; 
 }
+  
 .container{
     max-width: 1191px;
     margin: 0 auto;
     padding: 0 10px;
 }
 .header__logo{
-    margin-left: 25px;
-    margin-right: 188px;
+    margin: 0 188px 0 25px;
 }
 .header__top{
     display: flex;
     align-items: center;
     justify-content: space-between;
     height: 100px;
-    padding-top: 44px;
-    padding-bottom: 40px;
+    padding: 44px 0 40px;
     margin-bottom: 38px;
 }
 .header__nav-link{
@@ -62,6 +61,16 @@ header{
 }
 .home__inner{
     display: flex;
+   
+}
+@media (min-height: 661px){
+    .header__top{
+        margin-bottom: 0;
+    }
+    .home__inner{
+        margin: auto 0;
+        padding-bottom: 100px;
+    }
 }
 
 .home__redirect{
